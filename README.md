@@ -1,6 +1,6 @@
 Hi 👋 My name is Vedang
-Programmer
-🌍  I'm based in Inida* 
+Programmer\n
+🌍  I'm based in Inida*\n 
 ✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedupatel1510@gmail.com)
 
 <a href="https://www.github.com/Vedang1510" target="_blank" rel="noreferrer"><img
