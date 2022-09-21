@@ -1,6 +1,7 @@
 Hi 👋 My name is Vedang
 
 🌍  I'm based in India
+
 ✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedupatel1510@gmail.com)
 
 <a href="https://www.github.com/Vedang1510" target="_blank" rel="noreferrer"><img
