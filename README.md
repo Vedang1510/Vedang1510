@@ -1,5 +1,7 @@
 Hi 👋 My name is Vedang
-=======================Programmer----------* 🌍  I'm based in Inida* ✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedupatel1510@gmail.com)
+Programmer
+🌍  I'm based in Inida* 
+✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedupatel1510@gmail.com)
 
 <a href="https://www.github.com/Vedang1510" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vedang1510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
