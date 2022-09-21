@@ -1,6 +1,8 @@
 Hi 👋 My name is Vedang
 
-🌍  I'm based in India
+I am student of Computer Engineering in Bharti Vidyapeeth, pune
+
+🌍  I am citizen of India
 
 ✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedupatel1510@gmail.com)
 
