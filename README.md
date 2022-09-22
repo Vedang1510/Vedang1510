@@ -3,7 +3,7 @@ Hi 👋 My name is Vedang
 
 Student of Computer Engineering in Bharti Vidyapeeth, pune
 
-<p>--------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>--------------------------</p>
 
 🌍  I am citizen of India
 
