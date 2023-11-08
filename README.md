@@ -4,6 +4,7 @@ Hi 👋 My name is Vedang
 Student of Computer Engineering in Bharti Vidyapeeth, pune
 
 <p>--------------------------</p>
+<div style="background-color: rgb(220,223,6); height:6rem; width:100%;"></div>
 
 🌍  I am citizen of India
 
