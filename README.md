@@ -1,4 +1,7 @@
-Hi 👋 My name is Vedang
+<div>
+  <img src="https://ibb.co/KFqhX5k">
+</div>
+  Hi 👋 My name is Vedang
 
 
 Student of Computer Engineering in Bharti Vidyapeeth, pune
