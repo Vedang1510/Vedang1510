@@ -1,7 +1,4 @@
-<a>
-  <img src="D:\photoshop\1699372617212.png">
-</a>
-  Hi 👋 My name is Vedang
+Hi 👋 My name is Vedang
 
 
 Student of Computer Engineering in Bharti Vidyapeeth, pune
