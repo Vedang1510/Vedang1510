@@ -1,5 +1,5 @@
 <div>
-  <img src="D:\photoshop\1699372617212">
+  <img src="D:\photoshop\1699372617212.png">
 </div>
   Hi 👋 My name is Vedang
 
