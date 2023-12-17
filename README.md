@@ -1,7 +1,4 @@
-  <div style="width:100%">
-    <a href="https://ibb.co/KFqhX5k"><img style="height:13rem;" src="https://i.ibb.co/ZW8XVfP/1699372617212.png" alt="1699372617212" border="0"></a>
-  </div>
-  Hi 👋 My name is Vedang
+Hi 👋 My name is Vedang
 
 
 Student of Computer Engineering in Bharti Vidyapeeth, pune
