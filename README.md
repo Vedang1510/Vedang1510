@@ -1,4 +1,8 @@
-Hi 👋 My name is Vedang
+Hello, I am Vedang Sherpura 👋, a web developer with keen interest in solving data structure and algorithms problem.
+
+💻 Currently, I'm learning and improving my skills in web development. I love exploring new techie stuff and keeping up with the latest trends.
+
+🤓 When not immersed in code, you will find me exploring Indian history(mythology), watching sports, movies etc. and sometimes even reading books.
 
 
 Student of Computer Engineering in Bharti Vidyapeeth, pune
