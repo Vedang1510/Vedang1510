@@ -5,9 +5,9 @@ Hello, I am Vedang Sherpura 👋, a web developer with keen interest in solving 
 <p>--------------------------</p>
 <div style="background-color: rgb(220,223,6); height:6rem; width:100%;"></div>
 
-🌍  I am citizen of India
+🌍  Citizen of India
 
-✉️  You can contact me at [vedupatel1510@gmail.com](mailto:vedangrsherpura@gmail.com)
+✉️  You can contact me at [vedangrsherpura@gmail.com](mailto:vedangrsherpura@gmail.com)
 
 <a href="https://www.github.com/Vedang1510" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Vedang1510?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
